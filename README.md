@@ -1,5 +1,5 @@
 # misc_game_theory
-Simulator of dynamics of evolution of cooperation in repeated games with non-zero sum
+Simulator of dynamics of evolution of cooperation in repeated games with non-zero sum. Further description in [project documentation (CZ)](https://github.com/xbendl/misc_game_theory/blob/main/fig.png).
 
 ![GUI](https://github.com/xbendl/misc_game_theory/blob/main/fig.png)
 
