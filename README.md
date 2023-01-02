@@ -10,7 +10,7 @@ Installation:
 
 Run:
 =====
-```Synopsis: ./ipd -i inputFile -o outputFile```
+`Synopsis: ./ipd -i inputFile -o outputFile`
 
 Parameters:
 -i inputFile
@@ -18,4 +18,4 @@ Parameters:
 
 Example:
 ==================
-./ukaz_co_umis.sh
+Run `ukaz_co_umis.sh`
