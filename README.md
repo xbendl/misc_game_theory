@@ -10,8 +10,7 @@ Installation:
 
 Run:
 =====
-Synopsis: 
-./ipd -i inputFile -o outputFile
+```Synopsis: ./ipd -i inputFile -o outputFile```
 
 Parameters:
 -i inputFile
